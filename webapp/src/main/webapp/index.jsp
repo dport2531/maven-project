@@ -1,3 +1,3 @@
 Hello, World!
 Today is $date!
-Bye
+ALL THE BEST!
